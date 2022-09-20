@@ -1,5 +1,5 @@
 # Machine Learning Real World Projects
-Contains three projects I completed while following a udemy course.
+Contains three projects I completed while following Udemy course (whose certificate is below here) and the fourth project is another Udemy course.
 
 
 1. [Kidney Dataset Analysis and Prediction](https://github.com/Antony-gitau/kidney_dataset_analysis)
